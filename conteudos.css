@@ -1,0 +1,9 @@
+* { margin: 0px; padding: 0px; box-sizing: border-box; }
+
+section {  display: grid; width: 100vw; height: 100vh; gap: 2px; grid-template-columns: repeat(3, 1fr); color: #ffffff; }
+
+/* ( TODOS ESSES SÃO APLICADOS NO PAI: align-items, align-content ,justify-content ,justify-items ) */
+/* heixo (X) horizontal sempre vai ser justify */
+/* heixo (Y) vertical sempre vai ser align */
+
+div { background-color: tomato;  }

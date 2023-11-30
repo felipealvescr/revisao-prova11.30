@@ -1,0 +1,5 @@
+* { margin: 0px; padding: 0px; box-sizing: border-box; }
+
+body { background-color: cornflowerblue; display: grid; height: 100vh; place-items: center;}
+
+#app { border: 3px solid red; width: 200px; height: 200px; display: grid; place-content: center; }
